@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SubmissionMoviesUiUx</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_search">Pencarian</string>
+    <string name="title_now_playing">Daftar Utama</string>
+    <string name="title_up_coming">Yang Akan Datang</string>
+
+    <string name="API_KEY">cefa1eb1bc52f15c39f3559046546cc2</string>
+
+    <string name="search_hint">Masukkan kata</string>
+    <string name="dateandtime">Tanggal dan Waktu</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="app_homeurl">
+        Kunjungi Kami di <xliff:g id="application_homepage">https://battistrada.id</xliff:g>
+    </string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="Movies">Film</string>
+    <string name="Name">Nama</string>
+    <string name="detail_movies">Detail Film</string>
+    <string name="search">Cari</string>
+
+
+
+</resources>
